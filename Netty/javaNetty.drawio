@@ -40,6 +40,15 @@
         <mxCell id="2EYVOyrGGRu7xW8oFNlG-4" value="Channel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="200" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2EYVOyrGGRu7xW8oFNlG-6" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2EYVOyrGGRu7xW8oFNlG-7" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="130" width="50" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="2EYVOyrGGRu7xW8oFNlG-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
